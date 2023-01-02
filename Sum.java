@@ -5,7 +5,7 @@ Class sum
         int a=3;
         int b=7;
         int d=10;
-        int c=13;
+        int c=9;
         System.out.print(a+b);//summation
         System.out.print(a+b+c+d);
 
